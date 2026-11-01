@@ -29,7 +29,7 @@ The architecture includes domain services, file services, Azure application serv
 - Validated connectivity between Azure virtual machines and on-premises file services.
 - Configured Azure virtual machines, availability, networking and remote administration through Azure Bastion.
 - Configured Azure Files and tested Robocopy migration, successfully copying three empty directories without transferring any files.
-- Implemented Azure VM Backup and Microsoft Azure Recovery Services Agent.
+- Configured Azure VM Backup and Microsoft Azure Recovery Services (MARS) Agent; verified backup recovery points and successfully tested file restoration using MARS.
 - Configured Microsoft Entra Connect Sync with Password Hash Synchronization (PHS) and verified synchronization of on-premises Active Directory users and groups to Microsoft Entra ID.
 
 ## Troubleshooting Experience
