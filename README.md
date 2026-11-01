@@ -28,7 +28,7 @@ The architecture includes domain services, file services, Azure application serv
 - Established a Site-to-Site VPN between pfSense and Azure VPN Gateway.
 - Validated connectivity between Azure virtual machines and on-premises file services.
 - Configured Azure virtual machines, availability, networking and remote administration through Azure Bastion.
-- Configured Azure Files and tested file migration using Robocopy.
+- Configured Azure Files and tested Robocopy migration, successfully copying three empty directories without transferring any files.
 - Implemented Azure VM Backup and Microsoft Azure Recovery Services Agent.
 - Synchronized on-premises Active Directory identities to Microsoft Entra ID.
 
