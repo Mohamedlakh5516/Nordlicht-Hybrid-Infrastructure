@@ -40,7 +40,9 @@ These incidents were investigated and documented separately, including diagnosti
 
 ## Documentation
 
-Technical reports, architecture diagrams and selected configuration screenshots will be added to this repository.
+This repository includes the hybrid infrastructure architecture diagram, a detailed technical implementation report, and a troubleshooting journal documenting configuration challenges, diagnostic procedures, and lessons learned.
+
+The documentation distinguishes between completed configurations, verified tests, and items requiring further validation.
 
 ## Project Type
 
