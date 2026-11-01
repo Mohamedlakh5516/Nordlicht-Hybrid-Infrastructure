@@ -25,7 +25,7 @@ The architecture includes domain services, file services, Azure application serv
 ## Technical Highlights
 
 - Deployed Windows Server infrastructure with organizational units, security groups and Group Policy Objects.
-- Established a Site-to-Site VPN between pfSense and Azure VPN Gateway.
+- Established an IPsec/IKEv2 Site-to-Site VPN between pfSense and Azure VPN Gateway, and troubleshot tunnel negotiation issues.
 - Validated connectivity between Azure virtual machines and on-premises file services.
 - Configured Azure virtual machines, availability, networking and remote administration through Azure Bastion.
 - Configured Azure Files and tested Robocopy migration, successfully copying three empty directories without transferring any files.
